@@ -1,0 +1,4 @@
+C:\Users\michi\source\repos\GitHub\CodingCampus_2023.09.VZ.Dornbirn\Michael\obj\Release\net7.0\Michael.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\michi\source\repos\GitHub\CodingCampus_2023.09.VZ.Dornbirn\Michael\obj\Release\net7.0\Michael.AssemblyInfoInputs.cache
+C:\Users\michi\source\repos\GitHub\CodingCampus_2023.09.VZ.Dornbirn\Michael\obj\Release\net7.0\Michael.AssemblyInfo.cs
+C:\Users\michi\source\repos\GitHub\CodingCampus_2023.09.VZ.Dornbirn\Michael\obj\Release\net7.0\Michael.csproj.CoreCompileInputs.cache
